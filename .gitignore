@@ -1,0 +1,16 @@
+# Ignore the project explanation document from GitHub pushes
+PROJECT_EXPLANATION_GUIDE.md
+
+# Python cache and environment artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment directories
+venv/
+.env/
+.env
+
+# Streamlit cache
+.streamlit/
